@@ -1,0 +1,14 @@
+{
+  "name": "gnome_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Henrique Cabral & Diego Navarro",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
